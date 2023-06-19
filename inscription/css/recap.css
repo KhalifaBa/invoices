@@ -1,0 +1,29 @@
+.container{
+  background-color: white; border-radius: 10px 15px 15px 10px; width: 40%; align-content: center;margin-left: 30%;margin-top:20%;padding-left: 10px;
+  padding-bottom:30px;
+}
+body
+{
+  background-color: lightgrey;
+}
+table
+{
+  margin-bottom: 40px;
+}
+p
+{
+  margin-right: 200px;
+  font-size: 30px;
+}
+#stripe
+{
+  margin-left : 250px;
+  margin-top : 30px;
+  padding-left: 10px;
+  padding-top:10px;
+  padding-bottom:10px;
+  width: 30%;
+  background-color: mediumpurple;
+  border-radius: 5px;
+  text-align:center;
+}
